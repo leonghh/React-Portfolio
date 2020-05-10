@@ -1,4 +1,15 @@
+## React-Portfolio
+
+## Links
+Repo link - https://github.com/leonghh/React-Portfolio
+Deployed link - https://leonghh.github.io/React-Portfolio/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+![alt text](public/Homepage.PNG)
+![alt text](public/Portfoliopage.PNG)
+![alt text](public/Contactpage.PNG)
 
 ## Available Scripts
 
